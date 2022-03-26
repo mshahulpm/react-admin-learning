@@ -8,7 +8,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "ra-data-json-server": "^3.19.10",
     "react": "^17.0.2",
+    "react-admin": "^3.19.10",
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
